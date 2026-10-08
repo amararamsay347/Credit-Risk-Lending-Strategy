@@ -79,6 +79,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local LendingClub source data (keep these files out of GitHub)
+/lendingclub2016Q1-2020Q2.zip
+/lendingclub2016Q1-2020Q2/
+
 # IPython
 profile_default/
 ipython_config.py
